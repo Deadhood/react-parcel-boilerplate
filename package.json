@@ -8,7 +8,7 @@
   "repository": "git@github.com:Deadhood/react-parcel-boilerplate.git",
   "dependencies": {
     "react": "^16.10.2",
-    "react-dom": "^16.10.2"
+    "react-dom": "^16.11.0"
   },
   "devDependencies": {
     "autoprefixer": "^9.6.5",
